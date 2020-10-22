@@ -3,7 +3,7 @@
 
 ### <h2>About me:</h2>
 <div style="display:flex;flex-direction:row;width:80%">
-    <div style="width:50%">
+    <div width="200">
         <p>
             I am a full stack developer mainly passionate about the web but also for mobile, desktop development and finally the DevOps. I am the self-taught, I love self learning and I use this faculty to improve my technical skills.
 My greatest motivation is to be a real full stack developer who can master well the FRONT and BACK END very well at the same time. Even though it's hard to focus on both, I work and train every day to achieve this goal.
@@ -13,6 +13,10 @@ My greatest motivation is to be a real full stack developer who can master well 
         <img src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" height="200"/>
     </div>
 </div>
+
+
+
+
 
 ### <h2>My current skills:</h2>
 <h3>Back End:</h3>
@@ -49,6 +53,10 @@ My greatest motivation is to be a real full stack developer who can master well 
         <img src="data:image/png;base64,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" height="50" />
     </div>
 
+
+
+
+
 ### <h2>What I'm focusing on <img src="https://64.media.tumblr.com/b67db8ee80b61b7417f30a4faf494828/f2f39746a6815e16-b0/s250x400/067749e86ddd099e928dfc3a759d31979cff3bc3.gifv" width="40" height="40" /></h2>
 <div style="display:flex;flex-direction:row;justify-content:center;width:80%">
 <div>
@@ -61,6 +69,10 @@ My greatest motivation is to be a real full stack developer who can master well 
 </div>
 
 </div>
+
+
+
+
 
 
 ### <h2>Find me elsewhere </h2>
