@@ -2,7 +2,7 @@
 
 
 ### <h2>About me:</h2>
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:column;align-items:center">
     <div style="flex:1">
         <p>
             I am a full stack developer mainly passionate about the web but also for mobile, desktop development and finally the DevOps. I am the self-taught, I love self learning and I use this faculty to improve my technical skills.
