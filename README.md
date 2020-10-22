@@ -16,12 +16,14 @@ My greatest motivation is to be a real full stack developer who can master well 
 
 ### <h2>My current skills:</h2>
 <h3>Back End:</h3>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/php-27-226042.png" height="50"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-64/symfony-4-1174989.png" height="50" /> 
-    <img src="https://nagatodev.netlify.app/src/api_logo.png" height="50" />
-    <img src="https://cdn.iconscout.com/icon/free/png-64/codeigniter-4-1175201.png" height="50" /> 
-    <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3-1174937.png" width="60" />
-    <img src="https://nagatodev.netlify.app/src/express.png" height="50" />
+    <div style="dispaly:flex;flex-direction:row">
+        <img src="https://cdn.iconscout.com/icon/free/png-64/php-27-226042.png" height="50"> 
+        <img src="https://cdn.iconscout.com/icon/free/png-64/symfony-4-1174989.png" height="50" /> 
+        <img src="https://nagatodev.netlify.app/src/api_logo.png" height="50" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/codeigniter-4-1175201.png" height="50" /> 
+        <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-3-1174937.png" width="60" />
+        <img src="https://nagatodev.netlify.app/src/express.png" height="50" />
+    </div>
 <h3>Front End:</h3>
     <img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" height="50" />
     <img src="https://cdn.iconscout.com/icon/free/png-64/css-38-226095.png" height="50" />
