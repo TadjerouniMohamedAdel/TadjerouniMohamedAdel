@@ -4,8 +4,8 @@
 ### <h2>About me:</h2>
 <div style="flex:1">
     <p>
-        <img src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="200" style="float:right" />
         I am a full stack developer mainly passionate about the web but also for mobile, desktop development and finally the DevOps. I am the self-taught, I love self learning and I use this faculty to improve my technical skills.<br/>
+        <img src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="200" style="float:right" />
         My greatest motivation is to be a real full stack developer who can master well the FRONT and BACK END very well at the same time. Even though it's hard to focus on both, I work and train every day to achieve this goal.
     </p>
 </div>
