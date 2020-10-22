@@ -5,7 +5,7 @@
 <div style="display:flex;flex-direction:column;align-items:center">
     <div style="flex:1">
         <p>
-            I am a full stack developer mainly passionate about the web but also for mobile, desktop development and finally the DevOps. I am the self-taught, I love self learning and I use this faculty to improve my technical skills.
+            I am a full stack developer mainly passionate about the web but also for mobile, desktop development and finally the DevOps. I am  self-taught, I love self learning and I use this faculty to improve my technical skills.
 My greatest motivation is to be a real full stack developer who can master well the FRONT and BACK END very well at the same time. Even though it's hard to focus on both, I work and train every day to achieve this goal.
         </p>
     </div>
