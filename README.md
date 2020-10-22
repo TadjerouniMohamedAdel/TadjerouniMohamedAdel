@@ -15,7 +15,7 @@ My greatest motivation is to be a real full stack developer who can master well 
 </div>
 
 
-
+<br/><br/><br/>
 
 
 ### <h2>My current skills:</h2>
@@ -55,7 +55,7 @@ My greatest motivation is to be a real full stack developer who can master well 
 
 
 
-
+<br/><br/><br/>
 
 ### <h2>What I'm focusing on <img src="https://64.media.tumblr.com/b67db8ee80b61b7417f30a4faf494828/f2f39746a6815e16-b0/s250x400/067749e86ddd099e928dfc3a759d31979cff3bc3.gifv" width="40" height="40" /></h2>
 <div style="display:flex;flex-direction:row;justify-content:center;width:80%">
@@ -73,7 +73,7 @@ My greatest motivation is to be a real full stack developer who can master well 
 
 
 
-
+<br/><br/><br/>
 
 ### <h2>Find me elsewhere </h2>
 
