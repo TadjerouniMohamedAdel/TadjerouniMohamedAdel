@@ -39,7 +39,7 @@ My greatest motivation is to be a real full stack developer who can master well 
         <img src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-6-1175203.png" height="50" />
         <img src="https://nagatodev.netlify.app/src/material.png" height="50" />
     </div>
-<h3>Mobile End:</h3>
+<h3>Mobile Development:</h3>
     <div style="dispaly:flex;flex-direction:row">
         <img src="https://nagatodev.netlify.app/src/rn_logo.png" height="50" />
         <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8af62599ec445552c3fb43608c37ff46463c9fce3b14d8ee63b2e71edddffd/firebase/images/lockup.png?dcb_=0.5161853309503495" height="50" />
