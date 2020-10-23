@@ -82,4 +82,4 @@ My greatest motivation is to be a real full stack developer who can master well 
 <a href="https://join.skype.com/invite/afq6nmhgxMgr"><img src="https://cdn.iconscout.com/icon/free/png-64/skype-183-569206.png" height="50" style="margin-left:5px" /></a>
 <a href="mailto:mohnagato@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-64/gmail-30-722694.png" height="50" style="margin-left:5px" /></a>
 
-**[nagatodev (my portfolio)](https://https://nagatodev.netlify.app/)**
+**[nagatodev (my portfolio)](https://nagatodev.netlify.app/)**
