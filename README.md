@@ -25,7 +25,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
     Am currently working as a software engineer. My biggest motivation is to be one of the best front end developers and I work I learn to reach that goal.
     </p>
 </div>
-<div style="width:50%;margin-left:40px;dispaly:flex;flex-direction:row">
+<div style="width:40%;margin-left:40px;dispaly:flex;flex-direction:row">
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)    
