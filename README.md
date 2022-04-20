@@ -17,15 +17,15 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 </h1>
 
 
-## About me
+## <h2 align="center">About me</h2>
 <div style="display:flex" align="center">
-<div style="width:40%">
+<div style="flex:1">
     <p style="font-size:18px">
        JS developer fascinated by the front-end.I am self-taught, I enjoy self-learning, for me it is the skill of the legend and I use this faculty to improve my technical skills.
     Am currently working as a software engineer. My biggest motivation is to be one of the best front end developers and I work I learn to reach that goal.
     </p>
 </div>
-<div style="width:40%;margin-left:40px;dispaly:flex;flex-direction:row">
+<div style="flex:1;margin-left:40px;dispaly:flex;flex-direction:row">
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)    
@@ -51,7 +51,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 </div>
 
 </div>
-### <h2>Find me elsewhere </h2>
+<h2>Find me elsewhere </h2>
 
 <a href="https://www.linkedin.com/in/adel-mohamed-tadjerouni-147546164/"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-160-461814.png" height="50" style="margin-left:5px"/></a>
 <a href="https://web.facebook.com/adelnagato.tadj"><img src="https://cdn.iconscout.com/icon/free/png-64/facebook-logo-2019-1597680-1350125.png" height="50" style="margin-left:5px"/></a>
