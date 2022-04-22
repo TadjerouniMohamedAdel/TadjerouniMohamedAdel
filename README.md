@@ -1,3 +1,8 @@
+<style>
+    h2{
+        border-bottom:none;
+    }
+</style>
 <div align="center">
 <h1>
 
