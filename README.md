@@ -18,18 +18,16 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 
 
 <h2 align="center" style="font-size:24px">About Me</h2>
-<table  align="center" style="border:none">
-<tr style="border:none">
-<td style="width:25% border:none">
-    <p style="font-size:18px">
+<div  align="center">
+<p style="font-size:18px">
        JS developer fascinated by the front-end.I am self-taught, I enjoy self-learning, for me it is the skill of the legend and I use this faculty to improve my technical skills.
     Am currently working as a software engineer. My biggest motivation is to be one of the best front end developers and I work I learn to reach that goal.
     </p>
-</td>
-<td style="border:none;dispaly:flex;flex-direction:row">
+</div> 
+<div align="center" style="margin-top:40px">
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)    
+![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![redux Badge](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -48,7 +46,5 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 ![mysql Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![linux Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![archlinux Badge](https://img.shields.io/badge/arch--linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) 
-</td>
-
-</tr>
-</table>
+</div>
+</div>
