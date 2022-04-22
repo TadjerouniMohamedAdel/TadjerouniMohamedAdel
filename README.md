@@ -48,20 +48,21 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 ![archlinux Badge](https://img.shields.io/badge/arch--linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) 
 </div>
 </div>
+
+
+
 <h2 align="center" style="font-size:24px;margin-top:40px">Falling in Love</h2>
 <p>
 This year I was falling in love with these three libraries:
 </p>
- <ul style="list-style:none">
- <li>
+ <div>
  <img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white") /> <span>I was able to Fetch, cache and update data in my React applications without having any global state.</span>
- </li>
-  <li>
+ </div>
+  <div>
  <img src="https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white") /> <span>based on jest,very nice experience coding to write unit and integration tests in my fontend projects.</span>
- </li>
-  <li>
+ </div>
+  <div>
  <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white") /> <span>JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</span>
- </li>
+ </div>
  
- </ul>
 
