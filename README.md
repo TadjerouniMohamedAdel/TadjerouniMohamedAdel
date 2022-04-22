@@ -73,7 +73,7 @@ This year I was falling in love with these three libraries:
   <td>
  <img src="https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white") /> 
  </td>
- <td >based on jest,very nice experience coding to write unit and integration tests in my fontend projects.</td>
+ <td >based on jest,very nice coding experience to write unit and integration tests in my fontend projects.</td>
  </tr>
   <tr>
   <td>
@@ -83,3 +83,12 @@ This year I was falling in love with these three libraries:
  <td>JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</td>
  </tr>
  </table>
+
+ <br/><br/>
+ <h2 align="center">
+ What am Focing on:
+ </h2>
+ <p>
+ 
+ </p>
+
