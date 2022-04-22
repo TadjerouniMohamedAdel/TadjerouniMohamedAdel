@@ -17,15 +17,16 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 </h1>
 
 
-<h2 align="center">About me</h2>
-<div  align="center">
-<div>
+<h2 align="center" style="font-size:24px">About Me</h2>
+<table  align="center">
+<tr>
+<td style="width:35%">
     <p style="font-size:18px">
        JS developer fascinated by the front-end.I am self-taught, I enjoy self-learning, for me it is the skill of the legend and I use this faculty to improve my technical skills.
     Am currently working as a software engineer. My biggest motivation is to be one of the best front end developers and I work I learn to reach that goal.
     </p>
-</div>
-<div style="dispaly:flex;flex-direction:row">
+</td>
+<td style="dispaly:flex;flex-direction:row">
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)    
@@ -46,16 +47,8 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 ![webpack Badge](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![mysql Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![linux Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![archlinux Badge](https://img.shields.io/badge/arch--linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
- 
-</div>
+![archlinux Badge](https://img.shields.io/badge/arch--linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) 
+</td>
 
-</div>
-<h2>Find me elsewhere </h2>
-
-<a href="https://www.linkedin.com/in/adel-mohamed-tadjerouni-147546164/"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-160-461814.png" height="50" style="margin-left:5px"/></a>
-<a href="https://web.facebook.com/adelnagato.tadj"><img src="https://cdn.iconscout.com/icon/free/png-64/facebook-logo-2019-1597680-1350125.png" height="50" style="margin-left:5px"/></a>
-<a href="https://join.skype.com/invite/afq6nmhgxMgr"><img src="https://cdn.iconscout.com/icon/free/png-64/skype-183-569206.png" height="50" style="margin-left:5px" /></a>
-<a href="mailto:mohnagato@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-64/gmail-30-722694.png" height="50" style="margin-left:5px" /></a>
-
-**[nagatodev (my portfolio)](https://nagatodev.netlify.app/)**
+</tr>
+</table>
