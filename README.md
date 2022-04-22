@@ -50,7 +50,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 
 <br/><br/>
 
-<h2 align="center" style="font-size:24px;margin-top:40px;border:none" border=0>Falling in Love</h2>
+<h2 align="center" style="font-size:24px;margin-top:40px;border:none" border="0">Falling in Love</h2>
 <p>
 This year I was falling in love with these three libraries:
 </p>
