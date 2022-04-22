@@ -18,15 +18,15 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 
 
 <h2 align="center" style="font-size:24px">About Me</h2>
-<table  align="center">
+<table  align="center" style="border:none">
 <tr>
-<td style="width:35%">
+<td style="width:35% border:none">
     <p style="font-size:18px">
        JS developer fascinated by the front-end.I am self-taught, I enjoy self-learning, for me it is the skill of the legend and I use this faculty to improve my technical skills.
     Am currently working as a software engineer. My biggest motivation is to be one of the best front end developers and I work I learn to reach that goal.
     </p>
 </td>
-<td style="dispaly:flex;flex-direction:row">
+<td style="border:none;dispaly:flex;flex-direction:row">
 
 ![typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)    
