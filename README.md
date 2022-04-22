@@ -9,7 +9,7 @@
     display: none;
   }
 
-  .markdown-body.entry-content {
+  .markdown-body h2 {
     padding: 0;
     border: 0;
   }
