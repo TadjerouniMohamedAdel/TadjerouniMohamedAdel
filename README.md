@@ -15,7 +15,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 </div>
 </div>
 </h1>
-
+<br/><br/>
 
 <h2 align="center" style="font-size:24px;text-decoration:none">About Me</h2>
 <div  align="center">
@@ -49,7 +49,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 </div>
 </div>
 
-
+<br/><br/>
 
 <h2 align="center" style="font-size:24px;margin-top:40px">Falling in Love</h2>
 <p>
