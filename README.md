@@ -1,3 +1,21 @@
+<style>
+    @media print {
+
+  #preview-page {
+    margin: 0;
+  }
+
+  .repository-content > div > h3 {
+    display: none;
+  }
+
+  .markdown-body.entry-content {
+    padding: 0;
+    border: 0;
+  }
+  
+}
+</style>
 <div align="center">
 <h1>
 
