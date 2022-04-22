@@ -72,7 +72,7 @@ This year I was falling in love with these three libraries:
  <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white") /> 
   </td>
 
- <td align="top" style="font-size:16px;line-height:2">JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</td>
+ <td>JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</td>
  </tr>
  </table>
 
