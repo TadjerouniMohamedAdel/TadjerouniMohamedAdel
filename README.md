@@ -19,7 +19,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 
 <h2 align="center" style="font-size:24px">About Me</h2>
 <table  align="center" style="border:none">
-<tr>
+<tr style="border:none">
 <td style="width:35% border:none">
     <p style="font-size:18px">
        JS developer fascinated by the front-end.I am self-taught, I enjoy self-learning, for me it is the skill of the legend and I use this faculty to improve my technical skills.
