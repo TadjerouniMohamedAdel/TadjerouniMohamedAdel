@@ -55,14 +55,25 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 <p>
 This year I was falling in love with these three libraries:
 </p>
- <div>
- <img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white") /> <span style="position:relative;top:-10px;line-height:2">I was able to Fetch, cache and update data in my React applications without having any global state.</span>
- </div>
-  <div>
- <img src="https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white") /> <span style="position:relative;top:-10px;line-height:2">based on jest,very nice experience coding to write unit and integration tests in my fontend projects.</span>
- </div>
-  <div>
- <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white") /> <span align="top" style="font-size:18px;line-height:2">JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</span>
- </div>
- 
+<table>
+ <tr>
+ <td>
+ <img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white") /> 
+ </td>
+ <td >I was able to Fetch, cache and update data in my React applications without having any global state.</td>
+ </tr>
+  <tr>
+  <td>
+ <img src="https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white") /> 
+ </td>
+ <td >based on jest,very nice experience coding to write unit and integration tests in my fontend projects.</td>
+ </tr>
+  <tr>
+  <td>
+ <img src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white") /> 
+  </td>
+
+ <td align="top" style="font-size:16px;line-height:2">JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</td>
+ </tr>
+ </table>
 
