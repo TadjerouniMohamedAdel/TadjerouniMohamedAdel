@@ -55,6 +55,14 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://nagatodev.netlify.app/)
 This year I was falling in love with these three libraries:
 </p>
 <table>
+<tr>
+<td>
+ <img src="https://img.shields.io/badge/storrybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white") /> 
+</td>
+<td>
+ Helped me to develop and document my own UI component library
+</td>
+</tr>
  <tr>
  <td>
  <img src="https://img.shields.io/badge/react--query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white") /> 
@@ -75,4 +83,3 @@ This year I was falling in love with these three libraries:
  <td>JavaScript End to End Testing Framework, quick setup, easy implementation, see what happens in the app in real time and many other features.</td>
  </tr>
  </table>
-
