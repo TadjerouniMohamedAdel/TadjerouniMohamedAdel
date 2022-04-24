@@ -92,13 +92,13 @@ This year I was falling in love with these three libraries:
 
 <p>
  
-As developer I have to keep learning and watching on the new technologies; this year I have the ambition to try some front end solution instead of react like
+As developer I have to keep learning and watching on the new technologies, this year I have the ambition to try some front end solution instead of react like
 ![archlinux Badge](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) 
  and 
  ![archlinux Badge](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
  , also I never used 
 ![archlinux Badge](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-before so I have a lot of thinks to learn and try, I love my work.
+before so I have a lot of thinks to learn and try.<br/> I love my work.
  </p>
 </div>
 
