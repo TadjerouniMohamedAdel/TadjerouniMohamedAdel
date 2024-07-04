@@ -9,7 +9,7 @@ Hi, I'm [Adel Mohamed Tadjerouni](https://adeltadjerouni.com/)
 [![Npm Badge](https://img.shields.io/badge/npm-adel--tadjerouni-informational?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/settings/adel-tadjerouni/packages)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adel--mohamed--tadjerounu-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-mohamed-tadjerouni/)
 [![Skype Badge](https://img.shields.io/badge/skype-Adel_Mohamed_Tadjerouni-informational?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/afq6nmhgxMgr)
-[![Website](https://img.shields.io/badge/Web_site-nagatodev-informational?style=flat-square&color=black&logo=netlify&logoColor=white)](https://adeltadjerouni.com)
+[![Website](https://adeltadjerouni.com)]
 [![Gmail Badge](https://img.shields.io/badge/gmail-mohnagato@gmail.com-informational?style=flat-square&logo=Gmail&left_color=gray&logoColor=white&link=mailto:mohnagato@gmail.com)](mailto:mohnagato@gmail.com)
 </div>
 </div>
