@@ -30,7 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" />
 &nbsp;&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api/top-langs?username=TadjerouniMohamedAdel&include_org=true&theme=react&layout=compact" alt="TadjerouniMohamedAdel" />
 </p>
+<p>
 
-<p></p>
+[![GitHub Streak](https://github-readme-streak-stats-6450xjpof.vercel.app?user=&theme=react&hide_border=true)](https://git.io/streak-stats)
 
+</p>
 
