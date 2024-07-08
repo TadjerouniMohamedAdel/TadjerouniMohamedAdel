@@ -27,6 +27,10 @@
 <br/>
 
 ### Github Stats 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" />
+&nbsp;&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api/top-langs?username=TadjerouniMohamedAdel&include_org=true&theme=react&layout=compact" alt="TadjerouniMohamedAdel" />
+</p>
+
+<p></p>
 
 
