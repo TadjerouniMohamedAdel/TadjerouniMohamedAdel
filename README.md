@@ -31,4 +31,4 @@
 </p>
 
 <h3 align="left">Github Stats </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true" alt="TadjerouniMohamedAdel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
