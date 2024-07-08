@@ -11,24 +11,24 @@
 
 
 
-### Aboutme
+### 🧑‍💻 Aboutme
 
 - 🌎 Frontend Developer from Algeria 🇩🇿 
 
 - 📚 My major is Software Engineering
 
-- 👨‍💻 I’m currently working at [**ScaleXP**](https://www.scalexp.com/)
+- 💼 I’m currently working at [**ScaleXP**](https://www.scalexp.com/)
 
 - 🔭 I’m currently focusing in **Frontend Development**
 
 - 💬 Ask me about **JavaScript & React**
 
-- 📫 Check my portflolio  **[adeltadjerouni.com](https://adeltadjerouni.com)**
+- 🔗 Check my portflolio  **[adeltadjerouni.com](https://adeltadjerouni.com)**
 <br/>
 
-### Github Stats 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" />
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api/top-langs?username=TadjerouniMohamedAdel&include_org=true&theme=react&layout=compact" alt="TadjerouniMohamedAdel" />
+### ⚡️ Github Stats 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react&hide_border=true" alt="TadjerouniMohamedAdel" />
+&nbsp;&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api/top-langs?username=TadjerouniMohamedAdel&include_org=true&theme=react&hide_border=true&layout=compact" alt="TadjerouniMohamedAdel" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats-tadjerounimohamedadel.vercel.app?user=TadjerouniMohamedAdel&theme=react&hide_border=true)](https://git.io/streak-stats)
