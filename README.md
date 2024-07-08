@@ -9,36 +9,22 @@
 [![Website](https://img.shields.io/badge/Web_site-adeltadjerouni-informational?style=flat-square&color=black&logo=netlify&logoColor=white)](https://adeltadjerouni.com)
 [![Gmail Badge](https://img.shields.io/badge/gmail-mohnagato@gmail.com-informational?style=flat-square&logo=Gmail&left_color=gray&logoColor=white&link=mailto:mohnagato@gmail.com)](mailto:mohnagato@gmail.com)
 
-- 🌎 Frontend Developer from Algeria 🇩🇿 
+<div style="display:flex;align-items:flex-start;width:100%;justify-content:space-evenly">
 
-- 🔭 I’m currently working on [**ScaleXP**](https://www.scalexp.com/)
+- 🌎 Frontend Developer from Algeria 🇩🇿 
 
 - 📚 My major is Software Engineering
 
+- 👨‍💻 I’m currently working at [**ScaleXP**](https://www.scalexp.com/)
+
 - 🔭 I’m currently focusing in **Frontend Development**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript & React**
 
-- 📫 Check my portflolio to reach me **https://adeltadjerouni.com**
+- 📫 Check my portflolio  **[adeltadjerouni.com](https://adeltadjerouni.com)**
 
-<br/>
-
-### Github Stats 
+<br/><br/>
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
-
-
-
-<br/>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-<h3 id="spotify-playing-">Spotify Playing 🎧</h3>
-<p>
-  <a href="https://open.spotify.com/user/u72bkq9pkwey82nfg4vshg377">
-   <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Saurav Spotify Playing" width="350" />
-  </a>
-</p>
-
+</div>
+</div>
