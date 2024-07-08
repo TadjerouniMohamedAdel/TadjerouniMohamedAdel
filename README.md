@@ -25,7 +25,16 @@
 <h3 align="left">Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
 
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4145](https://github.com/hoppscotch/hoppscotch/issues/4145#issuecomment-2209375118) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🎉 Merged PR [#4151](https://github.com/hoppscotch/hoppscotch/pull/4151) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. ❗ Opened issue [#4160](https://github.com/hoppscotch/hoppscotch/issues/4160) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🎉 Merged PR [#4141](https://github.com/hoppscotch/hoppscotch/pull/4141) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#4095](https://github.com/hoppscotch/hoppscotch/pull/4095) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
 
 <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
