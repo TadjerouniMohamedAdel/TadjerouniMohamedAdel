@@ -22,6 +22,9 @@
 - 📫 Check my portflolio to reach me **https://adeltadjerouni.com**
 
 
+<h3 align="left">Github Stats </h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
+
 
 <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
@@ -29,6 +32,3 @@
    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Saurav Spotify Playing" width="350" />
   </a>
 </p>
-
-<h3 align="left">Github Stats </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
