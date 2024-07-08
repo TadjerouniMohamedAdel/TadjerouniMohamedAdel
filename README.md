@@ -22,10 +22,12 @@
 - 📫 Check my portflolio to reach me **https://adeltadjerouni.com**
 
 
-<h3 align="left">Github Stats </h3>
+### Github Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
 
 
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
