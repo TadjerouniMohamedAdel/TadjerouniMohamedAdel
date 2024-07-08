@@ -25,6 +25,7 @@
 <h3 align="left">Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
 
+<!--START_SECTION:activity-->
 
 <h3 id="spotify-playing-">Spotify Playing 🎧</h3>
 <p>
@@ -33,5 +34,3 @@
   </a>
 </p>
 
-
-<!-- START_SECTION:activity -->
