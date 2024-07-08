@@ -32,3 +32,6 @@
    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Saurav Spotify Playing" width="350" />
   </a>
 </p>
+
+
+<!-- START_SECTION:activity -->
