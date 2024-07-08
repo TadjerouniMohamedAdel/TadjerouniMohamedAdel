@@ -9,7 +9,8 @@
 [![Website](https://img.shields.io/badge/Web_site-adeltadjerouni-informational?style=flat-square&color=black&logo=netlify&logoColor=white)](https://adeltadjerouni.com)
 [![Gmail Badge](https://img.shields.io/badge/gmail-mohnagato@gmail.com-informational?style=flat-square&logo=Gmail&left_color=gray&logoColor=white&link=mailto:mohnagato@gmail.com)](mailto:mohnagato@gmail.com)
 
-<div style="display:flex;align-items:flex-start;width:100%;justify-content:space-evenly">
+
+### Aboutme
 
 - 🌎 Frontend Developer from Algeria 🇩🇿 
 
@@ -24,7 +25,8 @@
 - 📫 Check my portflolio  **[adeltadjerouni.com](https://adeltadjerouni.com)**
 
 <br/><br/>
-<div>
+
+### Github Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react" alt="TadjerouniMohamedAdel" /></p>
-</div>
-</div>
+
+
