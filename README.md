@@ -27,8 +27,8 @@
 <br/>
 
 ### ⚡️ Github Stats 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react&hide_border=true" alt="TadjerouniMohamedAdel" />
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api/top-langs?username=TadjerouniMohamedAdel&include_org=true&theme=react&hide_border=true&layout=compact" alt="TadjerouniMohamedAdel" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api?username=TadjerouniMohamedAdel&include_org=true&theme=react&hide_border=true" alt="TadjerouniMohamedAdel"  height="195"/>
+&nbsp;&nbsp;<img align="center" src="https://github-readme-stats-adel-tadjerouni.vercel.app/api/top-langs?username=TadjerouniMohamedAdel&include_org=true&theme=react&hide_border=true&layout=compact" alt="TadjerouniMohamedAdel" height="195" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats-tadjerounimohamedadel.vercel.app?user=TadjerouniMohamedAdel&theme=react&hide_border=true)](https://git.io/streak-stats)
