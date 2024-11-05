@@ -11,7 +11,7 @@
 
 
 
-### 🧑‍💻 Aboutme
+### 🧑‍💻 About me
 
 - 🌎 Frontend Developer from Algeria 🇩🇿 
 
