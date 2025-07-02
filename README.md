@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 Aboutme
 
-- 🌎 Frontend Developer from Algeria 🇩🇿 
+- 🌎 Frontend Developer
 
 - 📚 My major is Software Engineering
 
